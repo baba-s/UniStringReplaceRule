@@ -2,9 +2,9 @@
 
 文字列の置換ルールを管理する構造体
 
-# 使用例
+## 使用例
 
-## 通常
+### 通常
 
 ```cs
 using UnityEngine;
@@ -21,7 +21,7 @@ public class Example : MonoBehaviour
 }
 ```
 
-## UniStringReplaceRule
+### UniStringReplaceRule
 
 ```cs
 using Kogane;
